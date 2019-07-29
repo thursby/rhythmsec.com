@@ -1,0 +1,56 @@
+Equalizer - responsive magazine template
+
+Equalizer is a perfect template for music, events, culture, cinematic and games websites.
+
+## HTML
+
+Each template page validates correctly in the W3C validator and is fully compatible with HTML5.
+
+## CSS
+
+1. All CSS styles are included in css/styles.min.css.
+2. Font Awesome is defined in css/font-awesome.min.css.
+3. All CSS files are available in both versions - uncompressed and minified.
+
+## Editing template
+
+If you want to add/edit/remove some HTML elements you can do it quickly in the standard way in accordance with the philosophy of Bootstrap 3.
+
+If you want to edit CSS styles, you can create additional CSS file with your own CSS code and include this file in page that needs it.
+
+## JavaScript
+
+All the custom JavaScript code is included in js/custom.js (js/custom.min.js) file. You can add your own code there.
+
+## Images
+
+Images used in OUR TEAM box are used by courtesy of Free Range Stock (http://freerangestock.com/).
+The details of these images license are available here: http://freerangestock.com/licensing.php
+
+Fragments of artists promo images used in this template are non-free.
+There are only used in the template work context like a sample data.
+The images are used only in context of music articles.
+The cover arts copyrights are believed to belong to the specify label.
+The images are promo photos needed to identify the specify artist (which can be described in the page based on this template).
+The copies of the artist promo photos are in low resolution and are only a part of completed photo sessions.
+
+All the album covers used in this template are non-free. There are only used in the template work context like a sample data.
+The images are used only in context of music articles.
+The cover arts copyrights are believed to belong to the specify label.
+The images are cover arts, a form of product packaging, the entire images are needed to identify the product (which can be placed in the page based on this template), properly convey the meaning and branding intended, and avoid tarnishing or misrepresenting the images.
+The copies of the albums covers are in low resolution and are only a part of completed graphic work of specify album.
+
+Other images used in pages are published on the Creative Commons license.
+
+## Third-party assets
+
+Font Awesome (MIT license) - http://fortawesome.github.io/Font-Awesome/
+Bebas Neue (Fontfabric License v1.00) - http://www.fontsquirrel.com/fonts/bebas-neue
+jQuery 1.11.0 (MIT license) - http://jquery.com/download/
+jQuery-cookie (MIT license) - https://github.com/carhartl/jquery-cookie
+jQuery scrollTo 1.4.11 (The MIT License) - https://github.com/flesler/jquery.scrollTo
+Lightbox 2.7.1 (Creative Commons Attribution 2.5 License) - http://lokeshdhakar.com/projects/lightbox2/
+Masonry (MIT License) - http://masonry.desandro.com/
+Modernizr (MIT license) - http://modernizr.com/
+Respond (MIT license) - https://github.com/scottjehl/Respond
+Shuffle.js (MIT License) - http://vestride.github.io/Shuffle/
